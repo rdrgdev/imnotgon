@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Rodrigo Dias</h1>
+<h1 align="center">Olá 👋, sou Rodrigo Carvalho Dias</h1>
 <h3 align="center">Um estudante de Engenharia da Computação apaixonado por tecnologia!</h3>
 
 <p align="center"> Atualmente estou aprendendo: HTML5, CSS3, JS e alguns frameworks como React e Vue</p>
