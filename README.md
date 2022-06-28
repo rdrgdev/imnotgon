@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Dias</h1>
 <h3 align="center">A passionate Computer Engineering Student from Brazil!</h3>
 
-- 🌱 I’m currently learning Front-End development: **HTML5, CSS3, React, Vue, JS**
+<p align="center">- 🌱 I’m currently learning Front-End development: **HTML5, CSS3, React, Vue, JS**</p>
 
 <h2 align="center">Some of my Projects: </h2>
 
