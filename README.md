@@ -5,7 +5,7 @@
 
 - An IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
 
-- 🌱 I’m currently learning Front-End development **HTML, CSS, React, Vue, JS**
+- 🌱 I’m currently learning Front-End development: **HTML, CSS, React, Vue, JS**
 
 - An Arduino project simulating a smart-home controller [Arduino LCD Project on C++](https://github.com/imnotgon/Arduino-5-LCD-Displays-College-Project)
 
