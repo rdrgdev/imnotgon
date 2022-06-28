@@ -3,7 +3,7 @@
 
 <h2 align="center">Some of my Projects: </h2>
 
-- A IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
+- An IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
 
 - 🌱 I’m currently learning Front-End development **HTML, CSS, React, Vue, JS**
 
