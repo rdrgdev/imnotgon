@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Dias</h1>
 <h3 align="center">A passionate Computer Engineering Student from Brazil!</h3>
 
+- 🌱 I’m currently learning Front-End development: **HTML5, CSS3, React, Vue, JS**
+
 <h2 align="center">Some of my Projects: </h2>
 
 - An IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
-
-- 🌱 I’m currently learning Front-End development: **HTML, CSS, React, Vue, JS**
 
 - An Arduino project simulating a smart-home controller [Arduino LCD Project on C++](https://github.com/imnotgon/Arduino-5-LCD-Displays-College-Project)
 
