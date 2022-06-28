@@ -3,7 +3,7 @@
 
 <p align="center"> Atualmente estou aprendendo: HTML5, CSS3, JS e alguns frameworks como React e Vue</p>
 
-<h2 align="center">Alguns de meus projetos: </h2>
+<h2 align="center">Alguns dos meus projetos: </h2>
 
 - Um conceito de site estilo IMDB (Críticas de filmes) [CINERANT](https://github.com/imnotgon/CINERANT)
 
