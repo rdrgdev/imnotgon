@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Dias</h1>
-<h3 align="center">A passionate Computer Engineering Student from Brazil!</h3>
+<h1 align="center">Olá 👋, sou Rodrigo Dias</h1>
+<h3 align="center">Um estudante de Engenharia da Computação apaixonado por tecnologia!</h3>
 
-<p align="center"> I’m currently learning Front-End development: HTML5, CSS3, React, Vue, JS</p>
+<p align="center"> Atualmente estou aprendendo: HTML5, CSS3, JS e alguns frameworks como React e Vue</p>
 
-<h2 align="center">Some of my Projects: </h2>
+<h2 align="center">Alguns de meus projetos: </h2>
 
-- An IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
+- Um conceito de site estilo IMDB (Críticas de filmes) [CINERANT](https://github.com/imnotgon/CINERANT)
 
-- An Arduino project simulating a smart-home controller [Arduino LCD Project on C++](https://github.com/imnotgon/Arduino-5-LCD-Displays-College-Project)
+- Projeto de faculdade em C++ de um Arduino UNO como controlador de uma Smart-Home: [Arduino LCD Project on C++](https://github.com/imnotgon/Arduino-5-LCD-Displays-College-Project)
 
-- 📝 I regularly write articles on DEV.TO [https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3](https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3)
+- 📝 Artigo no DEV.TO explicando o projeto CINERANT: [https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3](https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3)
 
-- 📫 How to reach me **rodrigoc__dias@outlook.com**
+- 📫 Entre em contato comigo! **rodrigoc__dias@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
