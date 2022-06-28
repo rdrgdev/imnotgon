@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Dias</h1>
-<h3 align="center">A passionate frontend developer from Brazil!</h3>
+<h3 align="center">A passionate Computer Engineering Student from Brazil!</h3>
+
+<h2 align="center">Some of my Projects: </h2>
 
 - A IMDB website idea [CINERANT](https://github.com/imnotgon/CINERANT)
 
