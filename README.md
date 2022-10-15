@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Rodrigo Carvalho Dias</h1>
 <h3 align="center">Um estudante de Engenharia da Computação apaixonado por tecnologia!</h3>
 
-<p align="center"> Atualmente estou aprendendo: HTML5, CSS3, JS e alguns frameworks como React e Vue</p>
+<p align="center"> Atualmente estou aprendendo: Terraform e Ansible.</p>
 
 <h2 align="center">Alguns dos meus projetos: </h2>
 
